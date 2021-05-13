@@ -1,0 +1,186 @@
+[
+    {
+        "name" : "YouTube",
+        "image": "images/youtube.png",
+        "type" : ["subscribe", "viewers / jam tayang", "likes"],
+        "price" : {
+            "0" : [
+                "100 subscribers = Rp. 120.000",
+                "250 Subscribers = Rp 250.000",
+                "500 Subscribers = Rp 600.000",
+                "1.000 Subscribers = Rp 1.000.000",
+                "2.000 Subscribers = Rp 1.800.000"
+            ],
+            "1" : [
+                "500 Views = Rp 100.000",
+                "1.000 Views = Rp 200.000",
+                "500 Jam Tayang = Rp 300.000",
+                "1.000 jam Tayang = 550.000",
+                "4.000 Jam Tayang = Rp 2.400.000"
+            ],
+            "2" : [
+                "500 Like = Rp 100.000",
+                "1.000 Like = Rp 200.000",
+                "2.000 Like = Rp 400.000",
+                "3.000 Like = Rp 600.000",
+                "4.000 Like = Rp 800.000",
+                "5.000 Like = Rp 1.000.000"
+            ]
+        }
+    },
+    {
+        "name" : "Facebook",
+        "image": "images/facebook.png",
+        "type" : ["like post", "followers fanspage"],
+        "price" : {
+            "0" : [
+                "250 Like : Rp 30.000",
+                "500 Like : Rp 60.000",
+                "1.000 Like : Rp 120.000",
+                "3.000 Like : Rp 360.000",
+                "6.000 Like : Rp 720.000",
+                "8.000 Like : Rp 960.000",
+                "10.000 Like : Rp 1.000.000"
+            ],
+            "1" : [
+                "100 Followers : Rp 50.000",
+                "300 Followers : Rp 90.000",
+                "500 Followers : Rp 140.000",
+                "1.000 Followers : Rp 200.000",
+                "3.000 Followers : Rp 500.000",
+                "5.000 Followers : Rp 800.000",
+                "10.000 Followers : Rp2.000.000"
+            ]
+        }
+    },
+    {
+        "name" : "Instagram",
+        "image": "images/instagram.png",
+        "type" : ["custom comment indonesia", "Like Indonesia", "custom comment bule", "Like Bule", "Instagram Followers Daerah", "View"],
+        "price" : {
+            "0" : [
+                "10 comment= Rp 30.000",
+                "50 comment= Rp 100.000",
+                "100 comment= Rp 200.000",
+                "200 comment= Rp 300.000",
+                "500 comment= Rp 1.000.000",
+                "1000 comment= Rp 2.000.000",
+                "2000 comment= Rp 4.000.000"
+            ],
+            "1" : [
+                "250 Like = Rp 30.000",
+                "500 Like = Rp 50.000",
+                "1.000 Like = Rp 80.000",
+                "3.000 Like = Rp 250.000",
+                "6.000 Like = Rp 500.000",
+                "8.000 Like = Rp 650.000",
+                "10.000 Like = Rp 800.000"
+            ],
+            "2" : [
+                "10 comment = Rp 10.000",
+                "50 comment = Rp 50.000",
+                "100 comment = Rp 100.000",
+                "200 comment = Rp 200.000",
+                "500 comment = Rp 500.000",
+                "1000 comment = Rp 1.000.000",
+                "2000 comment = Rp 2.000.000"
+            ],
+            "3" : [
+                "200 Like = Rp 10.000",
+                "500 Like = Rp 20.000",
+                "1.000 Like = Rp 30.000",
+                "3.000 Like = Rp 90.000",
+                "6.000 Like = Rp 180.000",
+                "8.000 Like = Rp 240.000",
+                "10.000 Like = Rp 300.000"
+            ],
+            "4" : [
+                "250 Followers = Rp 80.000",
+                "500 Followers = Rp 120.000",
+                "1.000 Followers = Rp 200.000",
+                "3.000 Followers = Rp 600.000",
+                "6.000 Followers = Rp 1.200.000",
+                "8.000 Followers = Rp 1.600.000",
+                "10.000 Followers = Rp 2.000.000"
+            ],
+            "5" : [
+                "250 View : Rp 30.000",
+                "500 View : Rp 50.000",
+                "1.000 View : Rp 80.000",
+                "3.000 View : Rp 150.000",
+                "6.000 View : Rp 300.000",
+                "8.000 View : Rp 400.000",
+                "10.000 View : Rp 500.000"
+            ]
+        }
+    },
+    {
+        "name" : "Twitter",
+        "image": "images/twitter.png",
+        "type" : ["followers", "likes"],
+        "price" : {
+            "0" : [
+                "250 Followers = Rp 100.000",
+                "500 Followers = Rp 150.000",
+                "1.000 Followers = Rp 300.000",
+                "10.000 Followers = Rp 3.000.000"
+            ],
+            "1" : [
+                "500 Like = Rp 80.000",
+                "1.000 Like = Rp 100.000",
+                "10.000 Like = Rp 1.000.000"
+            ]
+        }
+    },
+    {
+        "name" : "Tik-tok",
+        "image": "images/tik-tok.png",
+        "type" : ["followers", "likes", "viewes"],
+        "price" : {
+            "0" : [
+                "250 Followers = Rp 50.000",
+                "500 Followers = Rp 80.000",
+                "1.000 Followers = Rp 150.000",
+                "2.000 Followers = 250.000",
+                "3.000 Followers = 350.000",
+                "5.000 Followers = 550.000",
+                "7.000 Followers = 700.000",
+                "10.000 Followers = 1.000.000"
+            ],
+            "1" : [
+                "500 Like = Rp 30.000",
+                "1.000 Like = Rp 50.000",
+                "2.000 Like = Rp 80.000",
+                "3.000 Like = Rp 110.000",
+                "4.000 Like = Rp 150.000",
+                "5.000 Like = Rp 180.000"
+            ],
+            "2" : [
+                "500 Views = Rp 25.000",
+                "1.000 Views = Rp 40.000",
+                "2.000 Views = Rp 60.000",
+                "3.000 Views = Rp 80.000",
+                "4.000 Views = Rp 100.000",
+                "5.000 Views = Rp 120.000"
+            ]
+        }
+    },
+    {
+        "name" : "Shopee",
+        "image": "images/shopee.png",
+        "type" : ["followers", "likes"],
+        "price" : {
+            "0" : [
+                "250 Followers = Rp 50.000",
+                "500 Followers = Rp 80.000",
+                "1.000 Followers = Rp 100.000",
+                "10.000 Followers = Rp 1.000.000"
+            ],
+            "1" : [
+                "500 Like = Rp 25.000",
+                "1.000 Like = Rp 50.000",
+                "10.000 Like = Rp 500.000"
+            ]
+        }
+    }
+]
